@@ -1,6 +1,6 @@
 # Olá, Mundo!
-Primeiro repositorio do curso de Git e Github
+Primeiro repositorio do curso de **Git** e **Github**
 
 repositorio criado durante uma aula!
 
-adicionei essa linha direto do site
+*adicionei essa linha direto do site*
